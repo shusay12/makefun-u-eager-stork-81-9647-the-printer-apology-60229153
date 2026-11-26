@@ -1,0 +1,8 @@
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local run outputs (reproducible by running main.py)
+run1/
+run2/
